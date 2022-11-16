@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My baby, Doodle
-subtitle: 
+subtitle: doodle poodle
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
