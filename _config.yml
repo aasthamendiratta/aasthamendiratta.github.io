@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Yoda Analytics
+title: 	Aastha's life
 
 # Your name to show in the footer
 author: Suraaj
@@ -22,8 +22,6 @@ author: Suraaj
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://www.linkedin.com/in/suraajhasija/"
 
 ################
@@ -32,14 +30,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/little-yoda.png"
+avatar: "/assets/img/aastha.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: "/assets/img/little-yoda.png"
+#title-img: "/assets/img/aastha.jpg"
 
 
 #####################################
@@ -62,7 +60,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: i_suraaj
+  instagram: aastha.mendiratta
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78

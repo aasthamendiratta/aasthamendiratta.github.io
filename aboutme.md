@@ -4,19 +4,22 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---  
 
-<h1 align="center">Hi 👋, I'm Suraaj Hasija</h1>
-<h3 align="center"> Just Another Analytics Professional | AI Practitioner  </h3>
+<h1 align="center">Hi 👋, I'm Aastha Mendiratta</h1>
+<h3 align="center"> Girlfriend of Suraaj and that's not my problem </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsuraaj" alt="gitsuraaj" /> </p>
 
-- 🌱 I’m currently exploring **Deep learning**
+- 🌱 I’m so lucky to have found my best friend and love of my life
 
-- 💬 Ask me about **Analytics, Data Science, Machine learning, Technical Analysis of Stocks, Value Investing**
+⁣Suraaj is my home and will always be right by my side #luckygirl
 
-- 📫 How to reach me **mailbox.suraaj@gmail.com**
+My best friend, my ride or die. He’s the guy who’s dealt with the lowest points in my life- can he handle my highs?⁣⁣
 
-- Reach out directly on Linkedin if you need any help with datasets (from my projects): https://www.linkedin.com/in/suraajhasija/
-<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitsuraaj&show_icons=true" alt="gitsuraaj" /></p>
+I could not imagine a world without him, and I am hoping to spend forever as his girl.
+
+
+- 📫 How to reach me **caaasthamendiratta@gmail.com**
+
+
 
 </p>
 
