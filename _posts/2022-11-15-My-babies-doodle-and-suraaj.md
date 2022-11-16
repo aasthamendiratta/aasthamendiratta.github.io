@@ -2,8 +2,8 @@
 layout: post
 title: My baby, Doodle
 subtitle: doodle poodle
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/doodle.png
+cover-img: /assets/img/doodle.jpg
+thumbnail-img: /assets/img/doodle.jpg
 share-img: /assets/img/doodle.jpg
 tags: [dogs]
 ---
