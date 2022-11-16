@@ -21,6 +21,4 @@ I could not imagine a world without him, and I am hoping to spend forever as his
 
 
 
-</p>
-
 
